@@ -1,0 +1,3 @@
+# Life Expectancy and GDP
+
+This project investigates if there is a correlation between the economic output of a country and the life expectancy of its citizens. The aims of this project is to appropriately clean and prepare data, create plots for analysis and seek to explain the findings from the study using the Pandas, Matplotlib and Seaborn modules. I have also made use of the Plotly module to create interactive plot for use in the jupyter notebook and have added them to a folder.
