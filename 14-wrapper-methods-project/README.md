@@ -1,0 +1,3 @@
+# Wrapper Methods
+
+This project analyses data from a survey that asked people about their eating habits and weight. A logistic regression model was implemented to try to predict whether survey respondents are obese based on their answers to questions in the survey. After that, three different wrapper methods were employed to choose a smaller feature subset and the model's accuracy was evaluated with the different feature sets.
